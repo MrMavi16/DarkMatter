@@ -6,10 +6,10 @@
     --avatar-size: 40px;
     --background-image: url('https://imgur.com/a/hSxeaBv');
     --home-image: url('https://i.imgur.com/KKsmtDL.gif');
-    --background-solid: #00ff11;
-    --background-solid-dark: #00ff11;
-    --background-solid-darker: #00ff11;
-    --accent: 27, 27, 28;
-    --accent-alt: 27, 27, 28;
+    --background-solid: #101112;
+    --background-solid-dark: #090a0a;
+    --background-solid-darker: #020303;
+    --accent: 10, 10, 10;
+    --accent-alt: 29, 30, 31;
     --color: #ffffff;
 }
