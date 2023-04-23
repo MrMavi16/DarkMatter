@@ -7,9 +7,9 @@
     --background-image: url('https://imgur.com/a/hSxeaBv');
     --home-image: url('https://i.imgur.com/KKsmtDL.gif');
     --background-solid: #00ff11;
-    --background-solid-dark: #ff0000;
-    --background-solid-darker: #0f0f0f;
-    --accent: 51, 0, 255;
-    --accent-alt: 255, 255, 255;
+    --background-solid-dark: #00ff11;
+    --background-solid-darker: #00ff11;
+    --accent: 27, 27, 28;
+    --accent-alt: 27, 27, 28;
     --color: #ffffff;
 }
